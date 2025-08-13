@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datnt03
-- 👀 I’m FrontEnd Dev and interested in Automation Testing and Manualy Testing
+- 👀 I’m FullStack Dev and interested in Automation Testing and Manualy Testing
 - 🌱 I’m currently learning Automation Testing
 
 <!---
